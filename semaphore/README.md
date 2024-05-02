@@ -26,3 +26,8 @@ To run the application, simply execute the Python script `semaphore_multithread.
 
 ```bash
 python semaphore_multithread.py
+
+
+## Output
+![image](https://github.com/pavan656463/Patterns/assets/90201479/cfbd0178-ff65-4eb9-b601-6a7989e40f31)
+
