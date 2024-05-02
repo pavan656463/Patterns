@@ -38,11 +38,19 @@ class TourismBuilder {
     }
 }
 
-const tourismBuilder = TourismItinerary.builder();
-const myItinerary = tourismBuilder
+// Create plan1
+const plan1 = TourismItinerary.builder()
     .addSightseeing('Cubbon Park')
-    .addFood('Fruit Salad')
+    .addFood('bisi bele bath')
     .addShopping('Orion Mall')
     .build();
 
-console.log(myItinerary);
+// Create plan2
+const plan2 = TourismItinerary.builder()
+    .addSightseeing('Mantri Square')
+    .addFood('DBC')
+    .addShopping('GT Mall')
+    .build();
+
+console.log(plan1);
+console.log(plan2);
