@@ -23,11 +23,10 @@ The final `while` loop prints out any remaining messages in the queue.
 ## Usage
 
 To run the application, simply execute the Python script `semaphore_multithread.py`. Make sure you have Python installed on your system.
+## Output
+
+![image](https://github.com/pavan656463/Patterns/assets/90201479/598ebbe7-421a-4ad1-b68d-6e65d373b1f4)
+
 
 ```bash
 python semaphore_multithread.py
-
-
-## Output
-![image](https://github.com/pavan656463/Patterns/assets/90201479/cfbd0178-ff65-4eb9-b601-6a7989e40f31)
-
