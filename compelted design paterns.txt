@@ -1,0 +1,60 @@
+Level 100 series 
+-----------------
+
+
+
+
+--------------------------------------------------------------
+|   Patterns    |  No of patterns | Completed   | Incomplete |
+|   Behviour    |  	11	    |		5	|      6     |
+|   creational  |  	5         |       5     |	 0	 |
+|   Structural  |   	7         |		6     |      1     |
+--------------------------------------------------------------
+| 	Total	    |       23	    |      16	|	7	 |
+--------------------------------------------------------------
+
+
+
+--------------------Completed Patterns---------------------------
+
+Beharviour 
+-> chain of responsibility 
+-> iterator 
+-> memonto 
+-> Template
+-> Mediator
+
+creational
+-> Singleton 
+-> Prototype 
+-> Factory 
+-> Abstract Factory 
+-> Builder  
+
+
+structural 
+
+-> adapter 
+-> Brdige
+-> Composite 
+-> Facade 
+-> Proxy 
+-> Decorator
+
+
+----------------------------Incomplete---------------------------
+
+Beharviour 
+-> Observer *  Done(output show be shown)
+-> Strategy 
+-> Command 
+-> State * 	Done(output show be shown)
+-> Visitor *  No
+-> Interpreter * Output requried  
+
+creational
+Completed (*) -> Done 
+
+structural 
+
+-> Flyweight 	
