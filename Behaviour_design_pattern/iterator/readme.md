@@ -18,6 +18,3 @@ The Iterator pattern solves this problem by defining an interface for accessing 
 ## Example
 Suppose we have a list of tasks and we want to iterate over them without exposing the internal list structure. We can use the Iterator pattern to achieve this.
 
-```python
-# Python example code demonstrating the Iterator Design Pattern
-# (Code example can go here)

@@ -22,5 +22,4 @@ The program simulates a book distributor system where books are distributed base
 
 To run the program:
 
-```bash
-python flyweight.py
+

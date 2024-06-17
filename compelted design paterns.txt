@@ -46,8 +46,8 @@ structural
 
 Beharviour 
 -> Observer *  Done(output show be shown)
--> Strategy 
--> Command 
+-> Strategy * Done 
+-> Command * Done
 -> State * 	Done(output show be shown)
 -> Visitor *  No
 -> Interpreter * Output requried  
@@ -57,4 +57,4 @@ Completed (*) -> Done
 
 structural 
 
--> Flyweight 	
+-> Flyweight *
