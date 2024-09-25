@@ -1,4 +1,4 @@
-package SOLID.Liskov;
+package SOLID.Liskov.examples;
 
 import java.io.FileWriter;
 import java.io.IOException;

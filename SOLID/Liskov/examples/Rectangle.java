@@ -1,4 +1,4 @@
-package SOLID.Liskov;
+package SOLID.Liskov.examples;
 
 // Class that represents a rectangle
 public class Rectangle extends Shape {

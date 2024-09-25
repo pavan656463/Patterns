@@ -1,4 +1,4 @@
-package SOLID.Liskov;
+package SOLID.Liskov.examples;
 
 public class ShapeAreaCalculator {
     public static void printArea(Shape shape) {
@@ -13,3 +13,4 @@ public class ShapeAreaCalculator {
         printArea(square); // Outputs: Area: 16.0
     }
 }
+    

@@ -1,4 +1,4 @@
-package SOLID.Liskov;
+package SOLID.Liskov.examples;
 
 // Class that represents a square
 public class Square extends Shape {
