@@ -2,7 +2,7 @@
 class TourismItinerary {
     constructor() {
       this.activities = [];
-    }
+    }a
   
     addActivity(activity) {
       this.activities.push(activity);
@@ -44,3 +44,14 @@ const myBuiltItinerary = myItinerary.build();
   
 // Log the itinerary
 console.log(myBuiltItinerary);
+
+
+const myItinerary2 = TourismFactory.createItinerary();
+myItinerary2
+  .addActivity({ type: 'sightseeing123', name: 'Cubbon Park' })
+  .addActivity({ type: 'food123', name: 'Dosa' })
+  .addActivity({ type: 'shopping123', name: 'Mantri Square' });
+
+const myBuiltItinerary2 = myItinerary2.build();
+console.log(myBuiltItinerary2);
+console.log(myItinerary2);
